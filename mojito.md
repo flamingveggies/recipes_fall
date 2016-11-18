@@ -1,4 +1,5 @@
-YIELDServes 1
+### YIELD
+> Serves 1
 
 INGREDIENTS2 tablespoons (1 ounce) fresh lime juice2 heaping teaspoons superfine sugar1 cup crushed ice12 fresh mint leaves, plus 5 small sprigs for garnish1/4 cup (2 ounces) white rum2 tablespoons (1 ounce) club soda
 
