@@ -1,8 +1,6 @@
-#Bacon Wrapped Shrimpies
-##Ingredients
-*12 jumbo shrimp, 12-16 count per pound, peeled and deveined
-*12 slices thin bacon
-*Kosher salt
+12 jumbo shrimp, 12-16 count per pound, peeled and deveined
+12 slices thin bacon
+kosher salt
 
 Preheat your oven to 350 degrees.
 If your shrimp are not deveined when you buy them, use kitchen shears to cut down the back of the shrimp (the top or longer side) and remove the shell. You can leave the tail on or off, your preference (I remove it). With a pairing knife, slice into the shrimp along the backside and remove the vein if you see one.
