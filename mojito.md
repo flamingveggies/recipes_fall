@@ -1,4 +1,4 @@
-##World's most OK Mojito
+##World's most OK Mojito recipe
 
 ### YIELD
 > Serves 1
