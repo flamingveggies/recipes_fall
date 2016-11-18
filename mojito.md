@@ -1,4 +1,7 @@
-YIELDServes 1
+##World's most OK Mojito recipe
+
+### YIELD
+> Serves 1
 
 ### INGREDIENTS
 1. 2 tablespoons (1 ounce) fresh lime juice
